@@ -1,3 +1,3 @@
-# A simple collection python projects
+# A simple collection of python projects
 1. Random Password Generator
 2. 
